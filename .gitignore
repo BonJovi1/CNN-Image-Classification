@@ -3,3 +3,4 @@
 /data
 Assignment4.pdf
 *.DS_Store
+model_cifar.pt
