@@ -1,6 +1,6 @@
-/test
-/train
 /data
+/models
 Assignment4.pdf
 *.DS_Store
-model_cifar.pt
+.ipynb_checkpoints
+.pt
