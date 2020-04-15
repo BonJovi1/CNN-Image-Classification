@@ -1,4 +1,7 @@
 # Image-Classification-CNN
+
+The notebook may take a long time to load on GitHub. Use jupyter notebook viewer: [**nbviewer link**](https://nbviewer.jupyter.org/github/BonJovi1/CNN-Image-Classification/blob/master/code.ipynb)
+
 - Training a CNN from scratch to classify images from the CIFAR-100 dataset with different loss functions and comparing the results. 
 - Trying out different combinations of convolution, batch norm, pooling and activation layers. Trying varying learning rates and weight decay hyperparameters as well to further analyse the results. 
 - Our CNN has a depth of upto 3 layers, consisting of 3 convolutional, pooling and activation layers. We apply the activation function to each convolutional layer. The pooling layer separates the convolutional layers from each other, effectively controlling any overfitting. 
